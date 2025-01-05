@@ -1,0 +1,61 @@
+{
+    "Seating": {
+        "title": "Consejos de asientos",
+        "tip": "Consejo: ¡Reserva tu asiento pronto para obtener la mejor selección!",
+        "seatType": "Tipo de asiento",
+        "pros": "Ventajas",
+        "cons": "Desventajas",
+        "window": {
+            "name": "Ventana",
+            "pros": "Buenas vistas, puedes apoyarte en la pared",
+            "cons": "Más difícil salir"
+        },
+        "aisle": {
+            "name": "Pasillo",
+            "pros": "Fácil salir, más espacio para las piernas",
+            "cons": "Pueden golpearte los carritos"
+        },
+        "middle": {
+            "name": "Medio",
+            "pros": "A veces la única opción",
+            "cons": "Apretado, sin ventajas"
+        }
+    },
+    "Prices": {
+        "title": "Precios",
+        "tip": "Reserva 6-8 semanas antes para los mejores precios",
+        "tip2": "Prueba la búsqueda flexible de fechas",
+        "tip3": "Considera aeropuertos cercanos",
+        "tip4": "Suscríbete a las newsletters de las aerolíneas para obtener ofertas",
+        "tip5": "Usa comparadores de precios",
+        "subtitle": "Garantía de precio",
+        "subtip": "Si encuentras un precio más bajo, lo mejoraremos en un 10%!",
+        "subtip2": "Términos y condiciones aplicables"
+    },
+    "Upgrades": {
+        "title": "Consejos de Mejora",
+        "tip1": "Únete a programas de fidelización de aerolíneas",
+        "tip2": "Busca ofertas de última hora",
+        "tip3": "Vístete bien - ¡nunca se sabe!",
+        "tip4": "Sé flexible con tus fechas de viaje",
+        "tip5": "Considera pujar por mejoras",
+        "calculator": {
+            "title": "Calculadora de Mejoras",
+            "description": "Ingresa los detalles de tu vuelo para ver las posibilidades de mejora:",
+            "flightNumber": "Número de Vuelo",
+            "calculate": "Calcular"
+        }
+    },
+    "Footer": {
+        "copyright": "© 2025 Flight Tips. Todos los derechos reservados."
+    },
+    "Header": {
+        "title": "Consejos de Vuelo",
+        "nav": {
+            "seating": "Asientos",
+            "prices": "Precios",
+            "upgrades": "Mejoras"
+        },
+        "altText": "Icono de avión"
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "Seating": {
+        "title": "Seating Tips",
+        "tip": "Pro tip: Book your seat early for best selection!",
+        "seatType": "Seat Type",
+        "pros": "Pros",
+        "cons": "Cons",
+        "window": {
+            "name": "Window",
+            "pros": "Great views, can lean on wall",
+            "cons": "Harder to get out"
+        },
+        "aisle": {
+            "name": "Aisle",
+            "pros": "Easy to get out, more legroom",
+            "cons": "Can get bumped by carts"
+        },
+        "middle": {
+            "name": "Middle",
+            "pros": "Sometimes the only choice",
+            "cons": "Cramped, no advantages"
+        }
+    },
+    "Prices": {
+        "title": "Prices",
+        "tip": "Book 6-8 weeks in advance for best prices",
+        "tip2": "Try flexible date search",
+        "tip3": "Consider nearby airports",
+        "tip4": "Sign up for airline newsletters for deals",
+        "tip5": "Use price comparison websites",
+        "subtitle": "Price Beat Guarantee",
+        "subtip": "If you find a lower price, we'll beat it by 10%!",
+        "subtip2": "Terms and conditions apply"
+    },
+    "Upgrades": {
+        "title": "Upgrade Tips",
+        "tip1": "Join airline loyalty programs",
+        "tip2": "Check for last-minute upgrade offers",
+        "tip3": "Dress nicely - you never know!",
+        "tip4": "Be flexible with your travel dates",
+        "tip5": "Consider bidding on upgrades",
+        "calculator": {
+            "title": "Upgrade Calculator",
+            "description": "Enter your flight details to see upgrade possibilities:",
+            "flightNumber": "Flight Number",
+            "calculate": "Calculate"
+        }
+    },
+    "Footer": {
+        "copyright": "© 2025 Flight Tips. All rights reserved."
+    },
+    "Header": {
+        "title": "Flight Tips",
+        "nav": {
+            "seating": "Seating",
+            "prices": "Prices",
+            "upgrades": "Upgrades"
+        },
+        "altText": "Plane icon"
+    }
+}
